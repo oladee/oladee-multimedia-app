@@ -1,3 +1,11 @@
+# Introduction
+
+In this file manager, we want to display the various types of media on our web application. This is similar to platforms like Google Drive, Microsoft OneDrive and Apple’s iCloud.
+ 
+A file manager is a software application that allows users to manage files and folders stored on their computer or other devices such as external hard drives, USB flash drives, and networked storage.
+ 
+Most operating systems come with a built-in file manager, such as Windows Explorer on Windows, Finder on macOS, and Nautilus on Linux. There are also third-party file managers available that offer additional features and functionality beyond what the built-in options provide.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
